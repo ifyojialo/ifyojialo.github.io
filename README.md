@@ -10,4 +10,5 @@ Tools: Docker, Git, MySQL
 
 
 ## Projects
-[https://github.com/ifyojialo/Book-Management-Api](https://github.com/ifyojialo/Book-Management-Api): Developed REST APIs for a book management app using node.js
+[Book Management API](https://github.com/ifyojialo/Book-Management-Api): Developed with node.js, this project provides a backend solution for managing a
+library of books, featuring essential CRUD(Create, Read, Update, Delete) operations.
