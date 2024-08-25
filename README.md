@@ -4,8 +4,8 @@ Welcome to my Github profile. I'm a passionate Technical Support Engineer with a
 
 ## Skills
 Programming Languages: Python, SQL, JavaScript, Java, C# <br />
-Web Development: HTML, CSS, Node.js, React.js, REST APIs
-Data Analysis & Visualization: Pandas, Tableau, PowerBI
+Web Development: HTML, CSS, Node.js, React.js, REST APIs <br />
+Data Analysis & Visualization: Pandas, Tableau, PowerBI <br />
 Tools: Docker, Git, MySQL
 
 
